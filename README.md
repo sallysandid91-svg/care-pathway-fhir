@@ -39,3 +39,28 @@ This project uses healthcare terminologies to ensure semantic interoperability.
 ### LOINC
 
 - 4548-4 : Hemoglobin A1c
+## Skills Demonstrated
+
+### Business Analysis
+
+- Requirements analysis
+- Business rules definition
+- Functional documentation
+
+### Healthcare Data
+
+- Data modeling
+- Data quality
+- Healthcare interoperability
+
+### Standards
+
+- HL7 FHIR
+- SNOMED CT
+- LOINC
+- OMOP
+
+### Tools
+
+- Git
+- JSON
