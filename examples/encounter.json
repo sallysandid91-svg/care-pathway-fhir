@@ -18,4 +18,11 @@
       "text": "Type 2 diabetes follow-up"
     }
   ]
-}
+},
+"participant": [
+  {
+    "individual": {
+      "reference": "Practitioner/practitioner-001"
+    }
+  }
+]
