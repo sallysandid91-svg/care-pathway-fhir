@@ -1,0 +1,10 @@
+{
+  "resourceType": "Practitioner",
+  "id": "practitioner-001",
+  "name": [
+    {
+      "family": "Durand",
+      "given": ["Marie"]
+    }
+  ]
+}
