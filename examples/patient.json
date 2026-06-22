@@ -1,0 +1,18 @@
+{
+  "resourceType": "Patient",
+  "id": "patient-001",
+  "identifier": [
+    {
+      "system": "http://hospital.example.org",
+      "value": "12345"
+    }
+  ],
+  "name": [
+    {
+      "family": "Martin",
+      "given": ["Jean"]
+    }
+  ],
+  "gender": "male",
+  "birthDate": "1970-05-12"
+}
