@@ -4,9 +4,18 @@
   "status": "finished",
   "class": {
     "code": "AMB",
-    "display": "ambulatory"
+    "display": "Ambulatory"
   },
   "subject": {
     "reference": "Patient/patient-001"
-  }
+  },
+  "period": {
+    "start": "2025-05-10T09:00:00+01:00",
+    "end": "2025-05-10T09:30:00+01:00"
+  },
+  "reasonCode": [
+    {
+      "text": "Type 2 diabetes follow-up"
+    }
+  ]
 }
