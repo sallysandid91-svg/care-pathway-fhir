@@ -28,3 +28,14 @@ A patient diagnosed with Type 2 Diabetes follows the following care pathway:
 - Encounter
 - ServiceRequest
 - Observation
+## Healthcare Terminologies
+
+This project uses healthcare terminologies to ensure semantic interoperability.
+
+### SNOMED CT
+
+- 44054006 : Type 2 diabetes mellitus
+
+### LOINC
+
+- 4548-4 : Hemoglobin A1c
